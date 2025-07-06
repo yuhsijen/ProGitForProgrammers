@@ -8,5 +8,7 @@ namespace ProGitForProgrammers
 
         public DateTime PublicationDate { get; set; }
 
+        fix from Book2 branch
+
     }
 }
